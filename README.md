@@ -1,1 +1,1 @@
-# GEE_Python_API_ECD_LAB
+# Example code for using GEE python API along with locally stored data files (included here)
